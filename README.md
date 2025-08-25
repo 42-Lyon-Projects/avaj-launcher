@@ -2,7 +2,6 @@
 
 ![42](https://img.shields.io/badge/École-42-000000?style=flat-square&logo=42&logoColor=white)
 ![Java](https://img.shields.io/badge/Language-Java-orange?style=flat-square&logo=java)
-![Norminette](https://img.shields.io/badge/Norminette-passing-success?style=flat-square)
 
 **Préambule à destination des étudiants de 42**
 
